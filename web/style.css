@@ -1,0 +1,40 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Lato:wght@700&display=swap');
+
+
+html {
+  height: 100%;
+  width: 100%;
+}
+
+p {
+  color:whitesmoke ;
+}
+div{
+  color: whitesmoke;
+}
+
+body {
+  
+  background-color: #021022;
+}
+
+.logo {
+  width: 150px;
+  height: 300px;
+color: #fff;
+  margin-top: 5%;
+  margin-left: 5%;
+  font-family: 'Lato';
+  font-size: 24px;
+  
+}
+
+.center-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  color: azure;
+}
